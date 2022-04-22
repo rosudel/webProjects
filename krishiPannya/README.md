@@ -1,2 +1,1 @@
-# Art-Bay
-An E-commerce Buy and Sell website
+Its a agricultural e-commerce platform. It can be run in localhost by XAMP.
